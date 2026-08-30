@@ -67,6 +67,5 @@ jupyter
 ## Usage
 
 1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Place `employee_turnover.csv` in the proper place (or update the path in the notebook)
-4. Run the notebook: `jupyter notebook employee_turnover_project.ipynb`
+2. Place `employee_turnover.csv` in the proper place (or update the path in the notebook)
+3. Run the notebook: `jupyter notebook employee_turnover_project.ipynb`
